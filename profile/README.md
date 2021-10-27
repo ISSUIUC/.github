@@ -1,3 +1,3 @@
 # Hello! This is the Illinois Space Society's Github Organization
 
-![ISS Society Photo](ISS_Society_Photo.jpg =x250)
+![ISS Society Photo](./ISS_Society_Photo.jpg =x250)
