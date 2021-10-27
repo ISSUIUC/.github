@@ -1,3 +1,7 @@
-# Hello! This is the Illinois Space Society's Github Organization
+# Illinois Space Society Github 🚀
 
-![ISS Society Photo](./ISS_Society_Photo.jpg =x250)
+We make rockets
+
+<p align="center">
+  <img width="600" src="./ISS_Society_Photo.jpg">
+</p>
