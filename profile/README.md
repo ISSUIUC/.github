@@ -1,6 +1,16 @@
-<h1 align="center">
+
 The Illinois Space Society 🚀
-</h1>
+
+
+
+
+
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" align="center">](https://facebook.com/ILSpaceSociety)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" align="center">](https://instagram.com/illinoisspacesociety)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" align="center">](https://linkedin.com/company/the-illinois-space-society/)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" align="center">](https://twitter.com/IL_SpaceSociety)
+[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" align="center">](https://youtube.com/@IllinoisSpaceSociety)
+
 We do epic tech projects like rockets (think: epic avionics systems) and engines (think: DAQ systems and test software)
 
 <p align="center">
@@ -11,6 +21,6 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 
 | Page-hits since we got this widget                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FISSUIUC&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Page+Hits&edge_flat=false"/></a> </div> |
+| <div align="center">[![](https://visitcount.itsvg.in/api?id=ISSUIUC&icon=7&color=0)](https://visitcount.itsvg.in) </div> |
 
 </div>
