@@ -1,5 +1,6 @@
-# Illinois Space Society Github 🚀
-
+<h1 align="center">
+The Illinois Space Society 🚀
+</h1>
 We do epic tech projects like rockets (think: epic avionics systems) and engines (think: DAQ systems and test software)
 
 <p align="center">
