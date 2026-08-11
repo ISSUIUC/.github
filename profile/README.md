@@ -16,11 +16,3 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 <p align="center">
   <img width="600" src="ISS_Society_Photo.jpg">
 </p>
-
-<div align="center">
-
-| Page-hits since we got this widget                                                                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <div align="center">[![](https://visitcount.itsvg.in/api?id=ISSUIUC&icon=7&color=0)](https://visitcount.itsvg.in) </div> |
-
-</div>
