@@ -22,56 +22,46 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 ### Flight-Critical Systems
 
 
-
-[MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software)
-[MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test)
-
-[GNC-UTIL](https://github.com/ISSUIUC/GNC-UTIL)
-[GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM)
-
-[BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software)
-[BAGEL-App](https://github.com/ISSUIUC/BAGEL-App)
-
-[ISS-AV-STR](https://github.com/ISSUIUC/ISS-AV-STR)
-[ISS-PCB](https://github.com/ISSUIUC/ISS-PCB)
-
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system | Melody Parker; Ahmed Khan; Eddie Tang |✅|
+| [MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test) | Unit testing repository for the MIDAS sensor suite| |✅ |
+| [GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM) | Illinois Space Society's Guidance, Navigation, and Contol Software-in-the-Loop simulation | Ahmed Khan |✅|
+| [BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software) | Illinois Space Society's main flight software codebase for BAGEL, our Bluetooth Switch Board | | |
+| [BAGEL-App](https://github.com/ISSUIUC/BAGEL-App) |Illinois Space Society's codebase of the BLE React Native app to interface with the BAGEL board | | |
+| [ISS-AV-STR](https://github.com/ISSUIUC/ISS-AV-STR) | Illinois Space Society's AV bay design, harnessing, and sims | Miriam Nebu |✅ |
+| [ISS-PCB](https://github.com/ISSUIUC/ISS-PCB) | Illinois Space Society's AV PCB design | | |
+| [ISS-Recovery](https://github.com/ISSUIUC/ISS-Recovery) | Illinois Space Society's Recovery System | Gage Bingaman | |
 
 ### Auxiliary Flight Systems
 
-[CAM-Software](https://github.com/ISSUIUC/CAM-Software)
-[CAM-Software-Test](https://github.com/ISSUIUC/CAM-Software-Test)
-
-[ISS-Drone](https://github.com/ISSUIUC/ISS-Drone)
-[Drone_Sim](https://github.com/ISSUIUC/Drone_Sim)
-[ardupilot](https://github.com/ISSUIUC/ardupilot)
-
-[Aurora](https://github.com/ISSUIUC/Aurora)
-[Aurora-Software](https://github.com/ISSUIUC/aurora-software)
-
-[Iridium-Tracker](https://github.com/ISSUIUC/iridium-tracker)
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [CAM-Software](https://github.com/ISSUIUC/CAM-Software) |Flight software for the CAM MK3 and EAGLE boards as part of ARRL Big Brother | |✅ |
+| [CAM-Software-Test](https://github.com/ISSUIUC/CAM-Software-Test) | | | ✅|
 
 
 ### Auxiliary Ground Systems
 
-[MIDAS-BASE](https://github.com/ISSUIUC/MIDAS-BASE)
-[GroundStation](https://github.com/ISSUIUC/GroundStation)
-
-[TeleDecode](https://github.com/ISSUIUC/TeleDecode)
-
-[TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode)
-
-[SAM-Software](https://github.com/ISSUIUC/SAM-Software)
-[SAM-Turret](https://github.com/ISSUIUC/SAM-Turret)
-
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [MIDAS-BASE](https://github.com/ISSUIUC/MIDAS-BASE) |LR2021 Driver testing and implementation. Can be used for CAM & EAGLE bringup when issues need to be isolated | | ✅|
+| [GroundStation](https://github.com/ISSUIUC/GroundStation) |Illinois Space Society's main ground station codebase | |✅ |
+| [TeleDecode](https://github.com/ISSUIUC/TeleDecode) | | |❌ |
+| [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| | ❌|
+| [SAM-Turret](https://github.com/ISSUIUC/SAM-Turret) |Illinois Space Society's codebase for controls and software necessary for SAM Turret | Ahmed Khan |✅ |
 
 ### Onboarding
 
-[ISS-Git](https://github.com/ISSUIUC/ISS-Git)
-
-[ISS-GNC-Onboarding](https://github.com/ISSUIUC/ISS-GNC-Onboarding)
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [ISS-Git](https://github.com/ISSUIUC/ISS-Git) |Illinois Space Society's Git tutorial | Eddie Tang |❌ |
+| [ISS-GNC-Onboarding](https://github.com/ISSUIUC/ISS-GNC-Onboarding) |Illinois Space Society's  GNC team onboarding | Ahmed Khan| ✅ |
 
 ### Archive/Documentation
 
-[ISS-PCB-Archive](https://github.com/ISSUIUC/ISS-PCB-Archive)
-
-[MIDAS-flight-docs](https://github.com/ISSUIUC/MIDAS-flight-docs)
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [ISS-PCB-Archive](https://github.com/ISSUIUC/ISS-PCB-Archive) | Archive of PCBs that are more than 1 to 2 years old|  |❌ |
+| [MIDAS-flight-docs](https://github.com/ISSUIUC/MIDAS-flight-docs) |Automated documentation for MIDAS flight software | Eddie Tang|❌ |
+| [ISS-Controls](https://github.com/ISSUIUC/ISS-Controls) | Illinois Space Society's 6-DOF System for the MIDAS avionics system| Ahmed Khan |❌ |
