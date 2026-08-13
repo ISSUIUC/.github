@@ -17,7 +17,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
   <img width="600" src="ISS_Society_Photo.jpg">
 </p>
 
-## Spaceshot Repos
+## Spaceshot Avionics Repos
 
 ### Flight-Critical Systems
 
