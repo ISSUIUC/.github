@@ -49,7 +49,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [GroundStation](https://github.com/ISSUIUC/GroundStation) |Spaceshot's main ground station codebase |Melody Parker|✅|
 | [TeleDecode](https://github.com/ISSUIUC/TeleDecode) | Software for our TeleDecoder board meant to interface with TeleMegas|Jennifer Luo; Benson Zhou|✅ |
 | [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| Thomas McMananamen | ❌|
-| [SAM-Turret](https://github.com/ISSUIUC/SAM-Turret) |Illinois Space Society's codebase for controls and software necessary for SAM Turret | Ahmed Khan |✅ |
+| [SAM-Turret](https://github.com/ISSUIUC/SAM-Turret) |Illinois Space Society's codebase for controls and software necessary for SAM Turret | Ahmed Khan; Max Kulasik |✅ |
 
 ### Onboarding
 
