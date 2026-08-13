@@ -17,38 +17,38 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
   <img width="600" src="ISS_Society_Photo.jpg">
 </p>
 
-## Spaceshot Avionics Repos
+## Spaceshot Repos
 
 ### Flight-Critical Systems
 
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system | Melody Parker; Ahmed Khan; Eddie Tang |✅|
-| [MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test) | Unit testing repository for the MIDAS sensor suite| |✅ |
+| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system | Thomas McMananamen; Melody Parker; Ahmed Khan; Eddie Tang |✅|
+| [MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test) | Unit testing repository for the MIDAS sensor suite| Melody Parker |✅ |
 | [GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM) | Illinois Space Society's Guidance, Navigation, and Contol Software-in-the-Loop simulation | Ahmed Khan |✅|
-| [BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software) | Illinois Space Society's main flight software codebase for BAGEL, our Bluetooth Switch Board | | |
-| [BAGEL-App](https://github.com/ISSUIUC/BAGEL-App) |Illinois Space Society's codebase of the BLE React Native app to interface with the BAGEL board | | |
+| [BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software) | Illinois Space Society's main flight software codebase for BAGEL, our Bluetooth Switch Board | Melody Parker | ✅|
+| [BAGEL-App](https://github.com/ISSUIUC/BAGEL-App) |Illinois Space Society's codebase of the BLE React Native app to interface with the BAGEL board | Melody Parker; Alyssa LoVerde |✅ |
 | [ISS-AV-STR](https://github.com/ISSUIUC/ISS-AV-STR) | Illinois Space Society's AV bay design, harnessing, and sims | Miriam Nebu |✅ |
-| [ISS-PCB](https://github.com/ISSUIUC/ISS-PCB) | Illinois Space Society's AV PCB design | | |
+| [ISS-PCB](https://github.com/ISSUIUC/ISS-PCB) | Illinois Space Society's AV PCB design | Kacper Paraniuk |✅ |
 | [ISS-Recovery](https://github.com/ISSUIUC/ISS-Recovery) | Illinois Space Society's Recovery System | Gage Bingaman | |
 
 ### Auxiliary Flight Systems
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [CAM-Software](https://github.com/ISSUIUC/CAM-Software) |Flight software for the CAM MK3 and EAGLE boards as part of ARRL Big Brother | |✅ |
-| [CAM-Software-Test](https://github.com/ISSUIUC/CAM-Software-Test) | | | ✅|
+| [CAM-Software](https://github.com/ISSUIUC/CAM-Software) |Flight software for the CAM MK3 and EAGLE boards as part of ARRL Big Brother | Eddie Tang |✅ |
+| [CAM-Software-Test](https://github.com/ISSUIUC/CAM-Software-Test) | LR2021 Driver testing and implementation. Can be used for CAM & EAGLE bringup when issues need to be isolated| Eddie Tang | ✅|
 
 
 ### Auxiliary Ground Systems
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [MIDAS-BASE](https://github.com/ISSUIUC/MIDAS-BASE) |LR2021 Driver testing and implementation. Can be used for CAM & EAGLE bringup when issues need to be isolated | | ✅|
-| [GroundStation](https://github.com/ISSUIUC/GroundStation) |Illinois Space Society's main ground station codebase | |✅ |
-| [TeleDecode](https://github.com/ISSUIUC/TeleDecode) | | |❌ |
-| [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| | ❌|
+| [MIDAS-BASE](https://github.com/ISSUIUC/MIDAS-BASE) | Application that allows us to interface directly with MIDAS and Feather Duo | Muhammad Ali; Melody Parker | ✅|
+| [GroundStation](https://github.com/ISSUIUC/GroundStation) |Spaceshot's main ground station codebase |Melody Parker|✅|
+| [TeleDecode](https://github.com/ISSUIUC/TeleDecode) | Software for our TeleDecoder board meant to interface with TeleMegas|Jennifer Luo; Benson Zhou|✅ |
+| [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| Thomas McMananamen | ❌|
 | [SAM-Turret](https://github.com/ISSUIUC/SAM-Turret) |Illinois Space Society's codebase for controls and software necessary for SAM Turret | Ahmed Khan |✅ |
 
 ### Onboarding
@@ -62,6 +62,6 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [ISS-PCB-Archive](https://github.com/ISSUIUC/ISS-PCB-Archive) | Archive of PCBs that are more than 1 to 2 years old|  |❌ |
+| [ISS-PCB-Archive](https://github.com/ISSUIUC/ISS-PCB-Archive) | Archive of PCBs that are more than 1 to 2 years old| Eddie Tang |❌ |
 | [MIDAS-flight-docs](https://github.com/ISSUIUC/MIDAS-flight-docs) |Automated documentation for MIDAS flight software | Eddie Tang|❌ |
 | [ISS-Controls](https://github.com/ISSUIUC/ISS-Controls) | Illinois Space Society's 6-DOF System for the MIDAS avionics system| Ahmed Khan |❌ |
