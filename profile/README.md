@@ -55,7 +55,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [ISS-Git](https://github.com/ISSUIUC/ISS-Git) |Illinois Space Society's Git tutorial | Eddie Tang |❌ |
+| [ISS-Git](https://github.com/ISSUIUC/ISS-Git) |Illinois Space Society's Git tutorial for onboarding purposes | Eddie Tang | ❓ |
 | [ISS-GNC-Onboarding](https://github.com/ISSUIUC/ISS-GNC-Onboarding) |Illinois Space Society's  GNC team onboarding | Ahmed Khan| ✅ |
 
 ### Archive/Documentation
