@@ -31,7 +31,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [BAGEL-App](https://github.com/ISSUIUC/BAGEL-App) |Illinois Space Society's codebase of the BLE React Native app to interface with the BAGEL board | Melody Parker; Alyssa LoVerde |✅ |
 | [ISS-AV-STR](https://github.com/ISSUIUC/ISS-AV-STR) | Illinois Space Society's AV bay design, harnessing, and sims | Miriam Nebu |✅ |
 | [ISS-PCB](https://github.com/ISSUIUC/ISS-PCB) | Illinois Space Society's AV PCB design | Kacper Paraniuk |✅ |
-| [ISS-Recovery](https://github.com/ISSUIUC/ISS-Recovery) | Illinois Space Society's Recovery System | Gage Bingaman | |
+| [ISS-Recovery](https://github.com/ISSUIUC/ISS-Recovery) | Illinois Space Society's Recovery System | Gage Bingaman |✅ |
 
 ### Auxiliary Flight Systems
 
