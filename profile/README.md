@@ -24,7 +24,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system, currently contains MIDAS & Feather Duo Firmware | Thomas McMananamen; Melody Parker; Ahmed Khan; Eddie Tang |✅|
+| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system, currently contains MIDAS Firmware, Feather Duo Firmware, Data offload scripts, and CAM-MK2 Firmware | Thomas McMananamen; Melody Parker; Ahmed Khan; Eddie Tang |✅|
 | [MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test) | Unit testing repository for the MIDAS sensor suite| Melody Parker |✅ |
 | [GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM) | Illinois Space Society's Guidance, Navigation, and Contol Software-in-the-Loop simulation | Ahmed Khan |✅|
 | [BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software) | Illinois Space Society's main flight software codebase for BAGEL, our Bluetooth Switch Board | Melody Parker | ✅|
