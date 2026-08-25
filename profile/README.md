@@ -24,9 +24,9 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 
 | Name | Description | Point of Contact | Active |
 |---|---|---|---|
-| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system, currently contains MIDAS Firmware, Feather Duo Firmware, Data offload scripts, and CAM-MK2 Firmware | Thomas McMananamen; Melody Parker; Ahmed Khan; Eddie Tang |✅|
+| [MIDAS-Software](https://github.com/ISSUIUC/MIDAS-Software) | Illinois Space Society's main flight software codebase for the MIDAS avionics system, currently contains MIDAS Firmware, Feather Duo Firmware, Data offload scripts, and CAM-MK2 Firmware | Thomas McManamen; Melody Parker; Ahmed Khan; Eddie Tang |✅|
 | [MIDAS-Hardware-Test](https://github.com/ISSUIUC/MIDAS-Hardware-Test) | Unit testing repository for the MIDAS sensor suite. Used for hardware bring up. | Melody Parker |✅ |
-| [GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM) | Illinois Space Society's Guidance, Navigation, and Contol Software-in-the-Loop simulation | Ahmed Khan |✅|
+| [GNC-SILSIM](https://github.com/ISSUIUC/GNC-SILSIM) | Illinois Space Society's Guidance, Navigation, and Controls Software-in-the-Loop simulation | Ahmed Khan |✅|
 | [BAGEL-Software](https://github.com/ISSUIUC/BAGEL-Software) | Illinois Space Society's main flight software codebase for BAGEL, our Bluetooth Switch Board | Melody Parker | ✅|
 | [BAGEL-App](https://github.com/ISSUIUC/BAGEL-App) |Illinois Space Society's codebase of the BLE React Native app to interface with the BAGEL board | Melody Parker; Alyssa LoVerde |✅ |
 | [ISS-AV-STR](https://github.com/ISSUIUC/ISS-AV-STR) | Illinois Space Society's AV bay design, harnessing, and sims | Miriam Nebu |✅ |
@@ -48,7 +48,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [MIDAS-BASE](https://github.com/ISSUIUC/MIDAS-BASE) | Application that allows us to interface directly with MIDAS and Feather Duo | Muhammad Ali; Melody Parker | ✅|
 | [GroundStation](https://github.com/ISSUIUC/GroundStation) |Spaceshot's main ground station codebase |Melody Parker|✅|
 | [TeleDecode](https://github.com/ISSUIUC/TeleDecode) | Software for our TeleDecoder board meant to interface with TeleMegas|Jennifer Luo; Benson Zhou|✅ |
-| [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| Thomas McMananamen | ❌|
+| [TelemegaDecode](https://github.com/ISSUIUC/TelemegaDecode) | Application that allows us to decode and display telemetry from Altus Metrum altimeters| Thomas McManamen | ❌|
 | [SAM-Turret](https://github.com/ISSUIUC/SAM-Turret) |Illinois Space Society's codebase for controls and software necessary for SAM Turret | Ahmed Khan; Max Kulasik |✅ |
 
 ### Onboarding
