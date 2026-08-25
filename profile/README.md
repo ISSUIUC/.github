@@ -65,3 +65,16 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [ISS-PCB-Archive](https://github.com/ISSUIUC/ISS-PCB-Archive) | Archive of PCBs that are more than 1 to 2 years old| Eddie Tang |❌ |
 | [MIDAS-flight-docs](https://github.com/ISSUIUC/MIDAS-flight-docs) |Automated documentation for MIDAS flight software | Eddie Tang|❌ |
 | [ISS-Controls](https://github.com/ISSUIUC/ISS-Controls) | Illinois Space Society's 6-DOF System for the MIDAS avionics system| Ahmed Khan |❌ |
+
+
+## Branch Conventions (follow these to the best of your abilities)
+
+`feature/my-feature`: for something new
+
+`bugfix/my-bugfix`: for fixing something old
+
+`launch/my-launch`: for a launch milestone
+
+`docs/some-docs`: for documentation
+
+`misc/something`: for anything else
