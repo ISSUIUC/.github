@@ -67,7 +67,7 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [ISS-Controls](https://github.com/ISSUIUC/ISS-Controls) | Illinois Space Society's 6-DOF System for the MIDAS avionics system| Ahmed Khan |❌ |
 
 
-## Branch Conventions (follow these to the best of your abilities)
+### Branch Conventions (follow these to the best of your abilities)
 
 `feature/my-feature`: for something new
 
