@@ -66,6 +66,14 @@ We do epic tech projects like rockets (think: epic avionics systems) and engines
 | [MIDAS-flight-docs](https://github.com/ISSUIUC/MIDAS-flight-docs) |Automated documentation for MIDAS flight software | Eddie Tang|❌ |
 | [ISS-Controls](https://github.com/ISSUIUC/ISS-Controls) | Illinois Space Society's 6-DOF System for the MIDAS avionics system| Ahmed Khan |❌ |
 
+## Solid Propulsion Repos
+
+###
+
+| Name | Description | Point of Contact | Active |
+|---|---|---|---|
+| [Solid_Propulsion](https://github.com/ISSUIUC/Solid_Propulsion) | All software for Solid Propulsion E-Hardware | Jack Smolen; Mariano Rodriguez |✅ |
+| [Solid_PCBs](https://github.com/ISSUIUC/Solid_PCBs) | Solid Propulsion E-Hardware PCB Design| Jack Smolen | ✅|
 
 ### Branch Conventions (follow these to the best of your abilities)
 
